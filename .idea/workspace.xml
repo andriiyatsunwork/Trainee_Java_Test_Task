@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bcc9b22f-c63d-45e9-90a6-5c25bd2ee54e" name="Changes" comment="" />
+    <list default="true" id="bcc9b22f-c63d-45e9-90a6-5c25bd2ee54e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,7 +32,7 @@
     "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "Spring Boot.BackendApplication.executor": "Run",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "jdk.selected.JAVA_MODULE": "temurin-21",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/38093/Desktop/test-task-java/frontend",
@@ -84,7 +86,7 @@
       <option name="presentableId" value="Default" />
       <updated>1775672400492</updated>
       <workItem from="1775672401548" duration="665000" />
-      <workItem from="1775673085140" duration="4374000" />
+      <workItem from="1775673085140" duration="5065000" />
     </task>
     <servers />
   </component>
