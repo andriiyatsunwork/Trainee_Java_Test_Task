@@ -10,6 +10,9 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 5
@@ -27,6 +30,7 @@
     "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "Spring Boot.BackendApplication.executor": "Run",
+    "git-widget-placeholder": "master",
     "jdk.selected.JAVA_MODULE": "temurin-21",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/38093/Desktop/test-task-java/frontend",
@@ -80,7 +84,7 @@
       <option name="presentableId" value="Default" />
       <updated>1775672400492</updated>
       <workItem from="1775672401548" duration="665000" />
-      <workItem from="1775673085140" duration="4060000" />
+      <workItem from="1775673085140" duration="4374000" />
     </task>
     <servers />
   </component>
