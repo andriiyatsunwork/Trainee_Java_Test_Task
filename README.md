@@ -69,7 +69,7 @@ npm run dev
 
 ---
 
-## 🧪 How to Run the Tests
+##  How to Run the Tests
 
 ### Frontend E2E Test (Cypress)
 **Important:** Both the Database, the Backend API, and the Frontend client app MUST be running before you execute the E2E test.
@@ -88,7 +88,7 @@ npx cypress open
 ```
 Then select E2E Testing, choose your browser, and click on notes.cy.js.
 
-📌 API Endpoints Summary
+API Endpoints Summary
 - **GET /notes** - Get all notes
 
 - **GET /notes/{id}** - Get a specific note by ID
